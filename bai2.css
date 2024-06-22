@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    background-color: black;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    position: relative; 
+}
+.menu ul li{
+    display: inline-block;
+    padding: 15px;
+   
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.div1{
+    background-image: url(image/641867065ecb0.image.jpg);
+}
+.icon{
+     position: absolute; 
+    right:10px;
+}
+img{
+   display: flex;
+   justify-content: center;
+ 
+}
+.div3{
+    color: rgb(0, 255, 110);
+    text-align: center;
+}
+.div2{
+    position: relative;
+}
+.div3{
+position: absolute;
+bottom: 0;
+left: 50%;
+}

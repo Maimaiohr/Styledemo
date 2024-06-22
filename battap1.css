@@ -1,0 +1,12 @@
+.anh{
+    border: 3px solid rgb(19, 46, 19);
+    width: 300px;
+    display: flex;
+    flex-direction: row;
+}
+.anh div{
+    width: 100%;
+}
+img{
+    width: 70px;
+}

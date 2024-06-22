@@ -1,0 +1,13 @@
+.bang{
+    width: 500px;
+    border: 3px solid rgb(19, 46, 19);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.bang div{
+    width: 100%;
+}
+.bang div img{
+    width: 150px;
+}
